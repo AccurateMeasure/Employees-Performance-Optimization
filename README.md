@@ -6,6 +6,6 @@ This project aims at analyzing employees potential(skills set), performance and 
 - [Dataset Transformations](./Data_Transformations.md)
 - [Power BI Report Model](./Data_Modelling.md)
 - [Data Analysis](./Data_Analysis.md)
-- [Visualizations](./Visualizations.md)
+- [Visualizations/Report](./Visualizations.md)
 - [Summary](./Summary.md)
 - [Recommendations](./Recommendations.md)
