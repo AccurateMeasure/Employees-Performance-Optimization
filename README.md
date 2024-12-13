@@ -3,8 +3,8 @@ This project aims at analyzing employees potential(skills set), performance and 
 
 ## Table of Contents
 - [Dataset](./Dataset.md)
-- [Dataset Transformation](./Data_Transformations.md)
+- [Dataset Transformations](./Data_Transformations.md)
 - [Data Analysis](./Data_Analysis.md)
-- [Data Visualization](./Visualizations.md)
+- [Visualizations](./Visualizations.md)
 - [Summary](./Summary.md)
 - [Recommendations](./Recommendations.md)
