@@ -3,7 +3,7 @@ This project aims at analyzing employees potential(skills set), performance and 
 
 ## Table of Contents
 - [Dataset](./Dataset.md)
-- [Dataset Transformations](./Data_Transformations.md)
+- [Dataset Preparations / Transformations](./Data_Preparations.md)
 - [Power BI Report Model](./Data_Modelling.md)
 - [Data Analysis](./Data_Analysis.md)
 - [Visualizations/Report](./Visualizations.md)
