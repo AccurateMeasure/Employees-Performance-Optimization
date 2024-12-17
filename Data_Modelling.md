@@ -1,7 +1,6 @@
 # Power BI Report Model
 
-The modelling schema type used for this project is known as snowflake schema. This is because the dimension tables are normalized and connected to other dimension tables, creating a more complex network rather than a straight forward star schema. This model design helps
-in reducing data redundancy and improving query performance by breaking down the dimensions into related tables as seen in the diagram below:
+The modelling schema type used for this project is known as snowflake schema. This is because the dimension tables are normalized with some connected to other dimension tables, creating a more complex network rather than a straight forward star schema. The model design have a disconnected date dimension table and measures table to improve dynamic interactions, organize measures for easy maintenance and better collaborations. This model design also helps in reducing data redundancy and improving query performance by breaking down the dimensions into related tables as seen in the diagram below:
 
 ![PowerBI Report Model](https://github.com/user-attachments/assets/91742b95-8d6e-4515-aa76-9c4dbefe0f30)
 
