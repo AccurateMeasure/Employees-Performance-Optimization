@@ -1,6 +1,6 @@
 # Dataset Preparations/Transformations
 
-The T_Employees, T_Employee_updates, T_Exits, T_Perfromance, and T_Emp_skills tables were further prepared and transformed using PowerQuery editor and MDx code to apply the following transformations which result to the 26 tables detailed below:
+The T_Employees, T_Employee_updates, T_Exits, T_Perfromance, and T_Emp_skills tables were further prepared and transformed using PowerQuery editor and MDx code to apply the following transformations which resulted to the 26 tables detailed below:
 
 ## Preparations/Transformations
   
