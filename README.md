@@ -9,3 +9,7 @@ This project aims at analyzing employees potential(skills set), performance and 
 - [Visualizations/Report](./Visualizations.md)
 - [Summary](./Summary.md)
 - [Recommendations](./Recommendations.md)
+
+## Embedded Report 
+
+<iframe title="Talent Management Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmU0NjcwMDctMDZiYS00NjA2LTkxODEtMjEzYzc4NmNjMTU5IiwidCI6ImUwOTk1NmY0LTBmMWItNDAzMi1iZWZiLTFiYTJhMmM3Mzg1MSJ9" frameborder="0" allowFullScreen="true"></iframe>
