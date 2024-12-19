@@ -97,4 +97,4 @@ CALCULATE( DISTINCTCOUNT(T_EMP_SKILLS[EMPLOYEE SYS ID]),T_EMP_SKILLS[Skilled]=0,
 
 - Underskilled Employee % = IFERROR(('Metric Library'[Underskilled Employees]/'Metric Library'[Skill Needed Employees]),"")
 
-All the DAX measures calculated for this project have an objective meaning that helps monitor specific performance.
+All the DAX measures calculated for this project have an objective meaning/goal that helps monitor specific performance.
