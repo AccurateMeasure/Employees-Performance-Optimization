@@ -10,7 +10,7 @@ The relationships between tables in the data model provides a structured basis a
 These analyses allows us to explore complex questions and to drive meaningful conclusions that can inform strategic decisions and improve organizational outcomes.
 
 ## DAX
-The following DAX formulas are some of the DAX used for advanced calculations and dynamic analysis on top of the structured data model:
+The following DAX formulas are some of the measures used for dynamic analysis on top of the structured data model:
 
 - Starting Headcount = 
 var snapshotdt = (min(CALENDAR[DATE KEY]))
