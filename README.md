@@ -12,4 +12,4 @@ This project aims at analyzing employees skills, historical performance and exit
 
 ## Embedded Report
 
-[Click Here] ( <iframe title="Talent Management Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmU0NjcwMDctMDZiYS00NjA2LTkxODEtMjEzYzc4NmNjMTU5IiwidCI6ImUwOTk1NmY0LTBmMWItNDAzMi1iZWZiLTFiYTJhMmM3Mzg1MSJ9" frameborder="0" allowFullScreen="true"></iframe> )
+[Click Here] (<iframe title="Talent Management Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmU0NjcwMDctMDZiYS00NjA2LTkxODEtMjEzYzc4NmNjMTU5IiwidCI6ImUwOTk1NmY0LTBmMWItNDAzMi1iZWZiLTFiYTJhMmM3Mzg1MSJ9" frameborder="0" allowFullScreen="true"></iframe>)
