@@ -8,7 +8,7 @@ The relationships between tables in the data model provides a structured basis a
 - Employee retention and turnover analysis
 - Operational efficiency and workforce planning.
 
-The data model allows us to explore complex questions and to drive meaningful conclusions that can inform strategic decisions and improve organizational outcomes.
+The data analysis allows us to explore complex questions and to drive meaningful conclusions that can inform strategic decisions and improve organizational outcomes.
 
 ## DAX
 The following DAX formulas are some of the measures used for dynamic analysis on top of the structured data model:
