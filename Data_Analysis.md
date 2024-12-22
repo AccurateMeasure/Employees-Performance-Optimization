@@ -6,7 +6,8 @@ The relationships between tables in the data model provides a structured basis a
 - Skill and competency analysis
 - Employee demorgraphics and diversity
 - Employee retention and turnover analysis
-- Operational efficiency and workforce planning
+- Operational efficiency and workforce planning.
+
 These analyses allows us to explore complex questions and to drive meaningful conclusions that can inform strategic decisions and improve organizational outcomes.
 
 ## DAX
