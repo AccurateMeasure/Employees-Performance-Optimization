@@ -1,6 +1,6 @@
 # Employees-Performance-Optimization
 
-This project aims at analyzing employees' skills, historical performance, and exit data to provide data-driven insights and recommendations. The goal is to optimize productivity, enhance workforce capabilities, and manage employee exits through strategic succession planning within the organization.
+This project aims at analyzing employees skills, historical performance, and exit data to provide data-driven insights and recommendations. The goal is to optimize productivity, enhance workforce capabilities, and manage employee exits through strategic succession planning within the organization.
 
 ## Objectives
 
