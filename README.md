@@ -1,5 +1,5 @@
 # Employees-Performance-Optimization
-This project aims at analyzing employees potential(skills set), performance and reason for exits, to provide data driven insights and recommendations, to optimize productivity at reasonable cost and also reduce employees turnover rate within the organization. It includes: gathering, transforming, analyzing and visualizing employees related data using #PowerBI.
+This project aims at analyzing employees skills, performance and exits, to provide data driven insights and recommendations, to optimize productivity and manage exits with strategical succession planning within the organization. It includes: gathering, transforming, analyzing and visualizing employees related data using #PowerBI.
 
 ## Table of Contents
 - [Dataset](./Dataset.md)
