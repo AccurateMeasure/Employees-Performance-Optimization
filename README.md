@@ -33,5 +33,5 @@ This project aims at analyzing employees' skills, historical performance, and ex
 
 ## Embedded Report
 
-[Click Here to View the Report](https://app.powerbi.com/view?r=eyJrIjoiYmU0NjcwMDctMDZiYS00NjA2LTkxODEtMjEzYzc4NmNjMTU5IiwidCI6ImUwOTk1NmY0LTBmMWItNDAzMi1iZWZiLTFiYTJhMmM3Mzg1MSJ9)
+[Click Here to View the Report](https://app.powerbi.com/view?r=eyJrIjoiYmU0NjcwMDctMDZiYS00NjA2LTkxODEtMjEzYzc4NmNjMTU5IiwidCI6ImUwOTk1NmY0LTBmMWItNDAzMi1iZWZiLTFiYTJhMmM3Mzg1MSJ9&pageName=ReportSection81f63d0c90952a2ce510)
 
