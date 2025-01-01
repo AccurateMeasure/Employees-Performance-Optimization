@@ -6,11 +6,11 @@ This project aims at analyzing employees skills, historical performance, and exi
 
 - **9 BOX Grid:** Develop a performance by potential matrix to identify high performing indiviuduals and potential successors.
 
-- **Skills Analysis:** Assessing the skills inventory of employees to identify strengths, gaps, and opportunities for targeted training and development programs.
+- **Skills Analysis:** Assess the skills inventory of employees to identify strengths, gaps, and opportunities for targeted training and development programs.
 
-- **Performance Evaluation:** Analyzing historical performance data to track trends, evaluate the impact of tenure and salary, and identify high-performing individuals and departments.
+- **Performance Evaluation:** Analyze historical performance data to track trends, evaluate the impact of tenure and salary, and identify high-performing individuals and departments.
 
-- **Exit Management:** Investigating the reasons behind employee exits to develop effective retention strategies and minimize turnover.
+- **Exit Management:** Investigate the reasons behind employee exits to develop effective retention strategies and minimize turnover.
 
 ## Methodology
 
