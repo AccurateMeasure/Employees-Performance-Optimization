@@ -20,7 +20,7 @@ This project aims at analyzing employees skills, historical performance, and exi
 
 **Data Analysis:** Utilizing star schema data model and DAX for explicit measures calculation, to create power bi semantic model for advanced analytics insights from the data.
 
-**Data Visualization:** Creating interactive and visually appealing dashboards and reports using Power BI to present the findings and insights effectively.
+**Data Visualization:** Creating interactive and visually appealing dashboards and reports using Power BI to present the employees KPIs, performance-potential matrix, performance trend, skill and exits insights effectively.
 
 ## Table of Contents
 - [Dataset](./Dataset.md)
