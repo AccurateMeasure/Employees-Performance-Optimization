@@ -14,13 +14,13 @@ This project aims at analyzing employees skills, historical performance, and exi
 
 ## Methodology
 
-**Data Gathering:** Collecting comprehensive employee data, including skills, performance reviews, and exit details from various organizational sharepoint folder.
+**Data Gathering:** Collected comprehensive employee data, including skills, performance reviews, and exit details from various organizational sharepoint folder.
 
-**Data Transformation:** Cleaning and preparing the data for analysis by removing duplicates, handling missing values, and standardizing formats using power query.
+**Data Transformation:** Prepared and tansformed the employees data for analysis by removing duplicates, handling missing values, and standardizing formats using power query.
 
-**Data Analysis:** Utilizing star schema data model and DAX for explicit measures calculation, to create power bi semantic model for advanced analytics insights from the data.
+**Data Analysis:** Utilized star schema data model, DAX for explicit measures calculation, to create power bi semantic model for advanced analytics insights from the data.
 
-**Data Visualization:** Creating interactive and visually appealing dashboards and reports using Power BI to present the employees KPIs, performance-potential matrix, performance trend, skill and exits insights effectively.
+**Data Visualization:** Developed interactive and functional dashboards and report using Power BI to present the employees KPIs, performance-potential matrix, performance trend, skills and exits insights effectively.
 
 ## Table of Contents
 - [Dataset](./Dataset.md)
